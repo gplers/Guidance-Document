@@ -29,6 +29,13 @@
 + js 风格的 JSON 可以很轻松的和 json 风格的 JSON 完成互转
 + js 风格的 JSON 其实不是 JSON，是 Javascript 的 Object/Array，但是因为在此处和 JSON 用途等效，所以称其为 JSON
 
+## 开源项目许可证的选择
+
++ 单机程序 - GPLv3
++ Web 程序 - AGPL
++ 类库 - LGPL
++ 文档 - CC 4.0
+
 ## 补充说明
 
 ### 可读性的定义
